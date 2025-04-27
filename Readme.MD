@@ -103,10 +103,5 @@ i would fix the dns a record to the correct ip
 if routing issues happen  
 i would use ping and traceroute to find where it fails and fix the network
 
-if ssl certificate is expired or broken  
-i would renew or replace the ssl cert
-
-if the web service is down  
-i would restart nginx or apache
 
 ---
