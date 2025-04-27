@@ -107,14 +107,24 @@ i would use ping and traceroute to find where it fails and fix the network
 ---
 
 bonus section:
-Edit the /etc/hosts  to override
+
+edit /etc/hosts to override dns
+
 ![bonus](bonus.png)
-ping internal.example.com 
+
+ping internal.example.com to test the override
+
 ![bonus1](bonus1.png)
-edit systemd
+
+edit systemd-resolved settings
+
 ![bonus2](bonus2.png)
-screenshot of systemd parameters
+
+screenshot of systemd dns parameters
+
 ![bonus3](bonus3.png)
-restart service
+
+restart systemd-resolved service
+
 ![bonus4](bonus4.png)
 
