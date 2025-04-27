@@ -2,8 +2,8 @@ internship task - omar elshall
 
 ---
 
-please follow the readme.md carefully  
-you can also click on the screenshots i have provided below
+please follow the readme.md it will cover the 2 questions. with screenshots and explanations thanks
+you can also click on the screenshots if u want. i have provided below
 
 ---
 
