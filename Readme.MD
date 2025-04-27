@@ -11,7 +11,7 @@ mygrep.sh (question 1)
 
 small bash script similar to grep  
 supports -n to show line numbers and -v to invert matches  
-also supports --help to show usage info
+also supports --help to show usage info   (Bonus Solved in this)
 
 ---
 
@@ -107,14 +107,14 @@ i would use ping and traceroute to find where it fails and fix the network
 ---
 
 bonus section:
-
+Edit the /etc/hosts  to override
 ![bonus](bonus.png)
-
+ping internal.example.com 
 ![bonus1](bonus1.png)
-
+edit systemd
 ![bonus2](bonus2.png)
-
+screenshot of systemd parameters
 ![bonus3](bonus3.png)
-
+restart service
 ![bonus4](bonus4.png)
 
