@@ -1,0 +1,8 @@
+- dns server is misconfigured or unreachable
+- wrong dns record for internal.example.com
+- firewall is blocking access to port 80 or 443
+- web server is running but listening only on localhost
+- wrong ip address assigned in dns
+- routing issues between the user and the server
+- ssl certificate problem (if trying https on port 443)
+- server is up but the web service is down or crashed
