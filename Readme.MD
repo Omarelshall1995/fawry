@@ -105,3 +105,16 @@ i would use ping and traceroute to find where it fails and fix the network
 
 
 ---
+
+bonus section:
+
+![bonus](bonus.png)
+
+![bonus1](bonus1.png)
+
+![bonus2](bonus2.png)
+
+![bonus3](bonus3.png)
+
+![bonus4](bonus4.png)
+
